@@ -1,0 +1,11 @@
+# Кокосовоя мука
+
+Energy: 365 kcal
+Fat: 15,4 g 
+Saturated fatty acids: 14,5 g
+Carbohydrates: 16,8 g
+Sugar: 14,2 g
+Fiber: 37,9 g
+Protein: 20,9 g
+Salt: 0,00 g
+GI: 45
