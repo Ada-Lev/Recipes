@@ -8,7 +8,7 @@ Sugar: 14,2 g
 Fiber: 37,9 g
 Protein: 20,9 g
 Salt: 0,00 g
-GI: 45
+GI: <50 (low)
 
 # Мука сорго
 
@@ -20,3 +20,4 @@ Kolhydrater:	67,5 g
 Kostfibrer: 6,3 g
 Protein:	9,3 g
 Salt: 0,02 g
+GI: <50 (low)
