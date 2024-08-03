@@ -9,3 +9,14 @@ Fiber: 37,9 g
 Protein: 20,9 g
 Salt: 0,00 g
 GI: 45
+
+# Мука сорго
+
+Energi: 345 kcal
+Fett: 2,8 g
+-varav mättat fett:	0,5 g
+Kolhydrater:	67,5 g
+-varav sockerarter:	1,68 g
+Kostfibrer: 6,3 g
+Protein:	9,3 g
+Salt: 0,02 g
